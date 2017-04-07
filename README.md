@@ -1,2 +1,2 @@
 # Pupil_plus
-LVPEI project
+LVPEI project : A small patch to pupil plus
